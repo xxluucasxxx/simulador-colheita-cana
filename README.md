@@ -29,10 +29,6 @@ A proposta contempla os conceitos estudados nos capítulos 3 a 6:
 ### ✅ Usabilidade
 - Interface em menu de terminal com mensagens amigáveis e estrutura clara
 
-### 🔄 Conexão com banco Oracle
-> _Nota: Embora a proposta suporte integração futura com banco de dados Oracle, optamos por utilizar arquivos `.json` como base persistente, por atender plenamente os objetivos da simulação e garantir agilidade e simplicidade no processo._
-
----
 
 ## 📌 Como usar
 
